@@ -1,0 +1,2 @@
+# scala-bank
+scala practice
